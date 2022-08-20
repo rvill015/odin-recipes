@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    background-color: orange;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
